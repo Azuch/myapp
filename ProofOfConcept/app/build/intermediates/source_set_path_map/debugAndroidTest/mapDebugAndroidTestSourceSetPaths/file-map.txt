@@ -1,0 +1,5 @@
+com.example.proofofconcept.test.app-core-1.6.1-0 /home/user/.gradle/caches/8.11.1/transforms/d50d0adbfaffb885cfc1b1125a6882d6/transformed/core-1.6.1/res
+com.example.proofofconcept.test.app-androidTest-1 /home/user/AndroidStudioProjects/ProofOfConcept/app/build/generated/res/resValues/androidTest/debug
+com.example.proofofconcept.test.app-mergeDebugAndroidTestResources-2 /home/user/AndroidStudioProjects/ProofOfConcept/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.proofofconcept.test.app-mergeDebugAndroidTestResources-3 /home/user/AndroidStudioProjects/ProofOfConcept/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.proofofconcept.test.app-debugAndroidTest-4 /home/user/AndroidStudioProjects/ProofOfConcept/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
